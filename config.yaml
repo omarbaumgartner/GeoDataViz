@@ -1,0 +1,8 @@
+font_path: "assets/font.ttf"
+birds:
+  original_data_path: "data/original_data/birds_migration_original.csv"
+  data_path: "data/birds_migration.csv"
+  legend_path: "assets/birds_legend.png"
+wildfires:
+  data_path: "data/wildfires.csv"
+  legend_path: "assets/wildfire_legend.png"
