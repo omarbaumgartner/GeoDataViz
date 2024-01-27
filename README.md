@@ -6,7 +6,7 @@
 
 GeoDataViz is a Python-based project developed in 2020 as a part of my first year of my Masters in computer science studies. It is aimed at processing various databases and visualizing them on maps, with a focus on two key factors: bird migration and wildfires.
 
-![Preview](assets\readme\preview.png)
+![Preview](assets/readme/preview.png)
 
 ## Project Overview
 
